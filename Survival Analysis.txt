@@ -1,0 +1,20 @@
+# Load packages
+library("TCGAbiolinks")
+library("limma")
+library("edgeR")
+library("glmnet")
+library("factoextra")
+library("FactoMineR")
+library("caret")
+library("SummarizedExperiment")
+library("gplots")
+library("survival")
+library("survminer")
+library("RColorBrewer")
+library("gProfileR")
+library("genefilter")
+
+# set the working directory of RStudio correctly
+
+tcga_data = readRDS(file = "tcga_data.RDS")
+limma_res = readRDS(file = "limma_res.RDS")
