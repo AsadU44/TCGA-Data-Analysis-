@@ -1,0 +1,83 @@
+library("TCGAbiolinks")
+library("limma")
+library("edgeR")
+library("glmnet")
+library("factoextra")
+library("FactoMineR")
+library("caret")
+library("SummarizedExperiment")
+library("gplots")
+library("survival")
+library("survminer")
+library("RColorBrewer")
+library("gProfileR")
+library("genefilter")
+
+#Get project information
+GDCprojects = getGDCprojects()
+
+head(GDCprojects[c("project_id", "name")])
+
+#Get specific project information
+TCGAbiolinks:::getProjectSummary("TCGA-LIHC")
+
+#Download TCGA Expression Data
+query_TCGA = GDCquery(
+  project = "TCGA-LIHC",
+  data.category = "Transcriptome Profiling", 
+  experimental.strategy = "RNA-Seq",
+  workflow.type = "STAR - Counts")
+
+#Visualize Results
+lihc_res = getResults(query_TCGA) # make results as table
+head(lihc_res) # data of the first 6 patients.
+colnames(lihc_res) # columns present in the table
+
+#Check sample information
+head(lihc_res$sample_type) # first 6 types of tissue.
+
+#Total sample type of each category
+summary(factor(lihc_res$sample_type)) # summary of distinct tissues types present in this study
+
+[There are 100 controls  and 742 cancer samples. For simplicity, we will ignore the small class of recurrent solid tumors]
+
+#Redo Design
+ query_TCGA = GDCquery(
+  project = "TCGA-LIHC",
+  data.category = "Transcriptome Profiling",
+  data.type = "Gene Expression Quantification",
+  experimental.strategy = "RNA-Seq",
+  workflow.type = "STAR - Counts",
+  sample.type = c("Primary Tumor", "Solid Tissue Normal"))
+
+
+setwd('D:/CancerData')
+
+#Download TCGA data
+GDCdownload(query=query_TCGA)
+dim(tcga_data)
+
+#Load RNASeq
+tcga_data = GDCprepare(query_TCGA)
+
+# chain functions to save time and space
+colnames(colData(tcga_data))
+
+#Check Different features
+table(tcga_data@colData$vital_status)
+table(tcga_data@colData$tumor_stage)
+table(tcga_data@colData$definition)
+table(tcga_data@colData$definition)
+
+#Obtain Count Matrix
+dim(assay(tcga_data))
+dim(assay(tcga_data))
+head(rowData(tcga_data)) 
+
+#Save and Load 
+saveRDS(object = tcga_data,
+        file = "tcga_data.RDS",
+        compress = FALSE)
+        
+tcga_data = readRDS(file = "tcga_data.RDS")
+
