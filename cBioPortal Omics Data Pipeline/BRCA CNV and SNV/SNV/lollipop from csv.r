@@ -1,0 +1,88 @@
+library(dplyr)
+library(tidyverse)
+library(g3viz)
+library(maftools)
+library(ggplot2)
+library(fmsb)
+library(ggpubr)
+library(waffle)
+library(ggradar)
+library(RColorBrewer)
+
+
+setwd('D:/CancerData/TCGA BRCA cBioPortal/BRCA/BRCA CNV and SNV/SNV')
+
+#Read file
+snv<-read.delim('data_mutations.txt', header = T, sep = '\t')
+###Remember to use read.delim instead of read.csv since its a big file
+
+#Select gene of interest
+snv1<- filter(snv, snv$Hugo_Symbol=='BRCA1' | snv$Hugo_Symbol=='BRCA2')
+snv_final<-snv1[,c(1, 5:8, 10:14, 40)]
+snv_final$Variant_Classification<- gsub("_"," ", as.character(snv_final$Variant_Classification))
+
+#Filter for BRCA
+snv_BRCA1<- snv_final %>% filter(snv_final$Hugo_Symbol=='BRCA1')
+
+#Counting variant types
+snv_BRCA1_count <- snv_BRCA1 %>% 
+  group_by(Variant_Classification) %>% # Variable to be transformed
+  count()
+
+#Preparing data
+snv_BRCA1_count<- data.frame(t(snv_BRCA1_count))
+snv_BRCA1_count<-read.csv('snv_BRCA1_count.csv', row.names = 1)
+colnames(snv_BRCA1_count)
+
+#Set Max and Minimum cutoffs
+max_min <- data.frame(
+  Frame.Shift.Ins = c(15, 0), In.Frame.Del = c(15, 0), Splice.Site = c(15, 0), Frame.Shift.Del= c(15, 0), 
+  Silent= c(15, 0), Nonsense.Mutation= c(15, 0), Missense.Mutation= c(15, 0))
+
+#Create data frame
+snv_BRCA1_count <- rbind(max_min, snv_BRCA1_count)
+
+#Select color
+col="#E7B800"
+
+#Plot the radarplot
+radarchart( snv_BRCA1_count, axistype=2, 
+            
+            #custom polygon
+            pcol=col, pfcol=scales::alpha(col, 0.5), plwd=3, plty=1 , 
+            
+            #custom the grid
+            cglcol="grey", cglty=1, axislabcol="black", caxislabels=seq(0,10, 15), cglwd=1.5,
+            
+            #custom labels
+            vlcex=1, title = 'BRCA1 Mutation Summary in Breast Cancer')
+
+
+#Alternative way is waffle plot
+BRCA1_Waffle<- c(Frame.Shift.Ins=1, In.Frame.Del=2, Splice.Site=2, Frame.Shift.Del=3, Silent=3,
+      Nonsense.Mutation=6, Missense.Mutation=13)
+
+#Select palette
+pal<- brewer.pal(n=8, "Set3")
+
+#Draw plot
+waffle(BRCA1_Waffle, rows=5, colors = pal, title = 'BRCA1 Mutation Summary in Breast Cancer')
+
+#Generating lollipop diagram from cBioPortal Study
+#Prepare object
+mutation.dat <- g3viz::getMutationsFromCbioportal("brca_tcga_pan_can_atlas_2018", "BRCA1")
+###The project ID can be found here "https://github.com/cBioPortal/datahub/tree/master/public"
+# "cbioportal" chart theme
+
+#Prepare plot
+plot.options <- g3Lollipop.theme(theme.name = "cbioportal",
+                                 title.text = "BRCA1 Gene Somatic Mutation Summary in Breast Cancer",
+                                 y.axis.label = "# of TP53 Mutations")
+
+g3Lollipop(mutation.dat,
+           gene.symbol = "BRCA1",
+           btn.style = "gray", # gray-style chart download buttons
+           plot.options = plot.options,
+           output.filename = "BRCA1")
+
+
