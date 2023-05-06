@@ -1,0 +1,1069 @@
+PATIENT_ID,FOXM1,MCM2,MCM2.CNV,FOXM1.CNV,FOXM1_Sum,MCM2_Sum
+TCGA.3C.AAAU.01,10.36079223,10.93819021,Amplification,Amplification,Altered,Altered
+TCGA.3C.AALI.01,10.65224447,11.21543593,Amplification,Wild Type,Wild Type,Altered
+TCGA.3C.AALJ.01,10.29580337,10.1301458,Deletion,Wild Type,Wild Type,Altered
+TCGA.3C.AALK.01,9.027919815,10.0043188,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.4H.AAAK.01,8.699791053,10.30666553,Wild Type,Deletion,Altered,Wild Type
+TCGA.5L.AAT0.01,7.024175598,9.870417124,Wild Type,Deletion,Altered,Wild Type
+TCGA.5T.A9QA.01,9.89773052,10.67035529,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A1.A0SB.01,8.500582988,10.22095868,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A1.A0SD.01,8.942056993,9.611777311,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A1.A0SE.01,9.585826356,10.23021262,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A1.A0SF.01,9.103880503,10.12927014,Wild Type,Amplification,Altered,Wild Type
+TCGA.A1.A0SG.01,8.306736157,9.772098442,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A1.A0SH.01,8.468921307,9.529108401,Amplification,Wild Type,Wild Type,Altered
+TCGA.A1.A0SI.01,9.588635941,12.19036485,Amplification,Deletion,Altered,Altered
+TCGA.A1.A0SJ.01,10.18707984,9.78975207,Deletion,Amplification,Altered,Altered
+TCGA.A1.A0SK.01,13.61534226,12.83730664,Wild Type,Amplification,Altered,Wild Type
+TCGA.A1.A0SM.01,9.555503675,9.79132734,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A1.A0SN.01,10.85909213,10.65919318,Wild Type,Amplification,Altered,Wild Type
+TCGA.A1.A0SO.01,12.18340897,12.59721922,Amplification,Amplification,Altered,Altered
+TCGA.A1.A0SP.01,13.29177505,12.70301892,Amplification,Amplification,Altered,Altered
+TCGA.A1.A0SQ.01,9.391709731,10.40998486,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04N.01,8.219841299,9.424611419,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04P.01,9.780797281,10.43060936,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A04Q.01,11.15732799,10.52268941,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04R.01,10.36472562,10.95140858,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04T.01,12.94590101,11.28600322,Deletion,Amplification,Altered,Altered
+TCGA.A2.A04U.01,10.72703551,11.37667349,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A04V.01,9.868978388,10.03237639,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04W.01,10.56932399,10.12300913,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04X.01,10.597168,10.51188111,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A04Y.01,9.857953012,9.425251577,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CK.01,9.435911905,10.06569886,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CL.01,10.13984549,10.95415995,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0CM.01,11.33691376,11.31627022,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0CO.01,7.263325545,8.867939695,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CP.01,7.078695219,9.222831121,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CQ.01,9.49344119,8.97648966,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CR.01,8.473786912,10.20773427,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CS.01,8.623720572,9.686952174,Amplification,Amplification,Altered,Altered
+TCGA.A2.A0CT.01,9.341354252,10.59991284,Deletion,Wild Type,Wild Type,Altered
+TCGA.A2.A0CU.01,9.701644351,10.28413005,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A0CV.01,5.627533884,9.452653086,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0CW.01,11.25266543,11.18971339,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0CX.01,10.29119373,11.06993305,Amplification,Amplification,Altered,Altered
+TCGA.A2.A0D0.01,12.0824784,12.13113672,Amplification,Amplification,Altered,Altered
+TCGA.A2.A0D1.01,11.10651714,10.38563595,Deletion,Wild Type,Wild Type,Altered
+TCGA.A2.A0D2.01,12.76389495,11.51132275,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A0D3.01,6.707607613,9.404649842,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0D4.01,10.12826504,11.3527497,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A0EM.01,8.188005221,10.27280472,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0EN.01,8.169434001,8.910411881,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0EO.01,8.296608827,9.185916088,Deletion,Wild Type,Wild Type,Altered
+TCGA.A2.A0EP.01,8.561215379,9.624563363,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0EQ.01,10.85990745,10.67799265,Deletion,Wild Type,Wild Type,Altered
+TCGA.A2.A0ER.01,10.39221008,10.32696871,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0ES.01,7.473291752,8.453628691,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0ET.01,9.097281581,9.884481924,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A0EU.01,8.927250556,10.22660486,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A0EV.01,8.495027538,9.788733012,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A0EW.01,8.00572559,9.136514406,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0EX.01,7.172897496,9.679791477,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0EY.01,9.765297703,10.46155107,Amplification,Amplification,Altered,Altered
+TCGA.A2.A0ST.01,11.14236238,10.32675529,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0SU.01,9.421200152,10.13069925,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0SV.01,10.61276715,11.21505971,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0SW.01,10.54633502,10.53176158,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0SX.01,10.50842865,11.39467169,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0SY.01,8.739962833,10.18538342,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0T0.01,10.06919464,10.94073203,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A0T1.01,9.836749435,11.12999131,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0T2.01,8.638287473,10.06773013,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0T3.01,10.99011106,11.26037269,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0T4.01,10.42410329,10.52064814,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0T5.01,9.141123647,10.2172186,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0T6.01,6.831801255,9.138466365,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0T7.01,9.011403388,10.45418618,Amplification,Deletion,Altered,Altered
+TCGA.A2.A0YC.01,9.217327668,9.611091211,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0YD.01,8.225467749,9.140395236,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0YE.01,12.15809525,10.87818889,Deletion,Amplification,Altered,Altered
+TCGA.A2.A0YF.01,9.397644688,10.00464183,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A0YG.01,10.67427173,11.33928773,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A0YH.01,10.69466259,10.64795303,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A0YI.01,7.336569042,8.721065001,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0YJ.01,11.83355031,10.43826166,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A0YK.01,8.287112094,9.552436634,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0YL.01,9.212265341,9.965955955,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A0YM.01,12.55962803,11.87977851,Amplification,Amplification,Altered,Altered
+TCGA.A2.A0YT.01,10.61013898,10.80331585,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A1FV.01,8.639774809,9.05467757,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A1FW.01,10.5278093,10.34233028,Deletion,Amplification,Altered,Altered
+TCGA.A2.A1FX.01,10.20013845,11.13275676,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A1FZ.01,8.574071225,10.44420737,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A1G0.01,7.053306869,8.865680696,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A1G1.01,12.11653566,10.05903344,Amplification,Amplification,Altered,Altered
+TCGA.A2.A1G4.01,10.31280356,11.01019939,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A1G6.01,5.608371638,8.579647814,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A259.01,7.220175151,9.148285905,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A25A.01,8.866849265,9.608140215,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A25B.01,10.2874469,10.30468215,Wild Type,Deletion,Altered,Wild Type
+TCGA.A2.A25C.01,9.182645127,9.261399176,Deletion,Deletion,Altered,Altered
+TCGA.A2.A25D.01,10.16832112,10.71422834,Amplification,Wild Type,Wild Type,Altered
+TCGA.A2.A25E.01,10.70221598,10.09300814,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A25F.01,10.77677023,10.42298981,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A3KC.01,9.513407839,9.919098699,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A3KD.01,9.576163082,9.346897071,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A3XS.01,10.58703676,11.24990749,Amplification,Amplification,Altered,Altered
+TCGA.A2.A3XT.01,12.16667151,11.63268173,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A3XU.01,10.34281916,11.71081504,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A3XV.01,9.056209584,9.445726703,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A3XW.01,9.086969482,10.06114164,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A3XX.01,10.7030557,11.0636108,Deletion,Deletion,Altered,Altered
+TCGA.A2.A3XY.01,10.81731147,10.31266744,Deletion,Wild Type,Wild Type,Altered
+TCGA.A2.A3XZ.01,10.2276761,10.08998006,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A3Y0.01,12.21225622,11.73914771,Wild Type,Amplification,Altered,Wild Type
+TCGA.A2.A4RW.01,8.593566663,9.381240105,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A4RX.01,9.124514251,11.68369207,Amplification,Deletion,Altered,Altered
+TCGA.A2.A4RY.01,7.832409036,9.405492519,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A4S0.01,7.816612505,9.1393774,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A4S1.01,8.214697961,9.423708418,Amplification,Deletion,Altered,Altered
+TCGA.A2.A4S2.01,8.25641629,9.411604199,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A2.A4S3.01,11.20412482,11.45471569,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A0CD.01,9.067786588,10.91092,Amplification,Amplification,Altered,Altered
+TCGA.A7.A0CE.01,11.96812676,11.28194161,Deletion,Amplification,Altered,Altered
+TCGA.A7.A0CG.01,8.928420662,9.310228769,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A0CH.01,8.177783281,9.555451908,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A0CJ.01,10.43357501,11.89630591,Amplification,Amplification,Altered,Altered
+TCGA.A7.A0D9.01,7.669374071,8.872465578,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A0DA.01,10.2478326,10.43309507,Amplification,Deletion,Altered,Altered
+TCGA.A7.A0DB.01,8.361996394,9.811220541,Amplification,Wild Type,Wild Type,Altered
+TCGA.A7.A0DC.01,7.815722714,9.888723465,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A13D.01,10.88337644,11.36197666,Amplification,Amplification,Altered,Altered
+TCGA.A7.A13E.01,11.22409214,10.49451562,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A13F.01,11.51469433,11.68006058,Amplification,Amplification,Altered,Altered
+TCGA.A7.A13G.01,7.926835607,9.130210166,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A13H.01,7.942690433,9.730446361,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A26E.01,8.698989358,9.398200709,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A26F.01,10.20370282,9.438095283,Deletion,Wild Type,Wild Type,Altered
+TCGA.A7.A26G.01,9.770853817,9.452335975,Deletion,Wild Type,Wild Type,Altered
+TCGA.A7.A26H.01,8.515762906,10.50606951,Amplification,Wild Type,Wild Type,Altered
+TCGA.A7.A26I.01,10.67954168,10.24850875,Wild Type,Deletion,Altered,Wild Type
+TCGA.A7.A26J.01,10.30832765,9.666195593,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A2KD.01,9.79068734,10.33030069,Deletion,Deletion,Altered,Altered
+TCGA.A7.A3IY.01,8.70034261,9.638533659,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A3IZ.01,10.13459317,10.62850022,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A3J0.01,9.961009728,9.685379552,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A3J1.01,8.52431447,9.897408347,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A3RF.01,9.23569595,9.24515811,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A425.01,9.92769205,10.19007157,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A426.01,8.556969635,9.835052435,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A4SA.01,9.421097037,10.2225172,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A4SB.01,10.14065086,9.895096577,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A4SD.01,11.67666233,11.56621581,Amplification,Amplification,Altered,Altered
+TCGA.A7.A4SE.01,11.38531778,10.6257545,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A4SF.01,10.81383729,10.74294095,Deletion,Amplification,Altered,Altered
+TCGA.A7.A56D.01,8.981164812,10.53428343,Amplification,Amplification,Altered,Altered
+TCGA.A7.A5ZV.01,11.29138369,11.38786116,Amplification,Amplification,Altered,Altered
+TCGA.A7.A5ZW.01,7.033775373,9.008781549,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A7.A5ZX.01,6.498504594,8.568020701,Deletion,Wild Type,Wild Type,Altered
+TCGA.A7.A6VV.01,10.81218533,12.29254596,Amplification,Deletion,Altered,Altered
+TCGA.A7.A6VW.01,12.13586317,11.8576506,Wild Type,Amplification,Altered,Wild Type
+TCGA.A7.A6VX.01,10.4402982,11.48238446,Amplification,Amplification,Altered,Altered
+TCGA.A7.A6VY.01,11.53994394,12.14261127,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A06N.01,9.059974404,10.52342474,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A06O.01,10.18050594,11.44507694,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A06P.01,7.891808001,9.577528907,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A06Q.01,10.02118821,10.4146958,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A06R.01,7.96992752,10.08100401,Deletion,Deletion,Altered,Altered
+TCGA.A8.A06T.01,8.6566358,10.10546333,Wild Type,Deletion,Altered,Wild Type
+TCGA.A8.A06U.01,9.630651186,9.393868774,Deletion,Wild Type,Wild Type,Altered
+TCGA.A8.A06X.01,10.34850687,10.52008825,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A06Y.01,8.471354128,8.632631752,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A06Z.01,9.896907551,10.60720084,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A075.01,10.64325193,10.95898763,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A076.01,10.17361468,10.76952382,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A079.01,11.6814888,11.66778571,Amplification,Amplification,Altered,Altered
+TCGA.A8.A07B.01,9.995300778,10.18295295,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A07E.01,10.23939565,10.59324171,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A07F.01,9.465892862,9.541762619,Deletion,Wild Type,Wild Type,Altered
+TCGA.A8.A07G.01,8.220392839,10.03349183,Amplification,Deletion,Altered,Altered
+TCGA.A8.A07I.01,10.38552811,10.73135298,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A07J.01,7.396039579,9.711259142,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A07L.01,12.29484185,12.08573136,Amplification,Amplification,Altered,Altered
+TCGA.A8.A07O.01,11.69824453,11.80861029,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A07P.01,9.039810113,10.0598041,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A07R.01,11.64942685,11.77268572,Deletion,Amplification,Altered,Altered
+TCGA.A8.A07S.01,10.21220453,9.797060007,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A07U.01,11.99715478,10.77862748,Amplification,Amplification,Altered,Altered
+TCGA.A8.A07W.01,10.61495825,11.64765629,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A07Z.01,10.36360915,10.65684492,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A081.01,10.60256897,11.50665966,Amplification,Amplification,Altered,Altered
+TCGA.A8.A082.01,10.37045856,10.91034292,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A083.01,6.835216697,8.66048087,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A085.01,9.11561073,11.90769062,Amplification,Deletion,Altered,Altered
+TCGA.A8.A086.01,9.150247404,10.85176465,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A08A.01,8.862414195,9.874706303,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A08B.01,9.972491628,10.93430271,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A08C.01,8.179187562,9.40212525,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A08G.01,10.51130792,10.27108947,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A08H.01,10.14725581,9.916422901,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A08I.01,10.41584738,10.98961447,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A08J.01,10.32116146,10.84235034,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A08L.01,10.08943724,12.29256896,Wild Type,Deletion,Altered,Wild Type
+TCGA.A8.A08O.01,9.364386393,9.690275655,Deletion,Wild Type,Wild Type,Altered
+TCGA.A8.A08P.01,10.54026368,9.966067025,Deletion,Amplification,Altered,Altered
+TCGA.A8.A08R.01,11.88061283,11.03354001,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A08T.01,8.44291033,9.833124117,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A08X.01,10.07996471,10.21103654,Wild Type,Deletion,Altered,Wild Type
+TCGA.A8.A08Z.01,8.14654322,9.623623647,Wild Type,Deletion,Altered,Wild Type
+TCGA.A8.A090.01,9.690612645,10.30196482,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A091.01,8.697266463,9.835042958,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A092.01,11.0107239,11.27120621,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A093.01,8.783319136,10.14159628,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A094.01,10.68362628,9.311982124,Deletion,Amplification,Altered,Altered
+TCGA.A8.A095.01,9.885174713,11.35503719,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A096.01,9.646317491,10.03603621,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A097.01,9.410199043,10.81434213,Wild Type,Deletion,Altered,Wild Type
+TCGA.A8.A099.01,8.646501109,9.231732395,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A09A.01,9.266610877,9.14124118,Deletion,Amplification,Altered,Altered
+TCGA.A8.A09B.01,8.599351272,10.34987831,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A09C.01,10.05807292,10.09995264,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A09D.01,9.312619798,9.882739328,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A09G.01,10.24814105,10.36157099,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A09I.01,10.74123101,11.14626318,Wild Type,Deletion,Altered,Wild Type
+TCGA.A8.A09M.01,9.695840741,10.46157153,Amplification,Amplification,Altered,Altered
+TCGA.A8.A09N.01,10.80193465,10.63037635,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A09Q.01,9.308814541,11.1452826,Amplification,Deletion,Altered,Altered
+TCGA.A8.A09R.01,9.574065546,9.903717688,Amplification,Wild Type,Wild Type,Altered
+TCGA.A8.A09T.01,8.736385018,10.21539952,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A09V.01,8.923167012,9.794407743,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A09W.01,10.48148665,11.38400662,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A09X.01,11.34553831,9.966182414,Amplification,Amplification,Altered,Altered
+TCGA.A8.A09Z.01,9.546747868,9.221594371,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A0A1.01,8.825181411,9.916418422,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A0A2.01,8.702474009,9.175639365,Deletion,Wild Type,Wild Type,Altered
+TCGA.A8.A0A4.01,9.541433528,10.68227481,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A0A6.01,7.767601835,9.132322354,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A0A7.01,9.190656833,9.824594442,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A0A9.01,9.682875232,10.07967144,Wild Type,Amplification,Altered,Wild Type
+TCGA.A8.A0AB.01,9.634466214,10.82590485,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.A8.A0AD.01,9.091564972,9.970983036,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A23C.01,9.346043839,9.884478872,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A23E.01,8.388671733,9.300986246,Wild Type,Amplification,Altered,Wild Type
+TCGA.AC.A23G.01,8.520363314,9.54286356,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A23H.01,9.721987779,10.93341035,Amplification,Deletion,Altered,Altered
+TCGA.AC.A2B8.01,8.240653018,9.652359214,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2BK.01,10.89643837,11.81043507,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2BM.01,9.582712171,10.51926275,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2FB.01,8.425056411,9.559774757,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2FE.01,8.566898852,9.371236485,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2FF.01,8.843321243,8.931561921,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2FG.01,7.672397054,9.700066858,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2FK.01,6.106459298,8.366475219,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A2FM.01,9.607393199,10.37005527,Amplification,Amplification,Altered,Altered
+TCGA.AC.A2FO.01,7.603559586,8.846339736,Deletion,Wild Type,Wild Type,Altered
+TCGA.AC.A2QH.01,11.77766628,10.5143886,Deletion,Amplification,Altered,Altered
+TCGA.AC.A2QI.01,6.409066718,9.464829565,Wild Type,Deletion,Altered,Wild Type
+TCGA.AC.A2QJ.01,9.175891316,10.69835741,Amplification,Deletion,Altered,Altered
+TCGA.AC.A3BB.01,7.848572868,9.593079205,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3EH.01,8.977445938,10.16689115,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3HN.01,9.057775167,9.780168999,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3OD.01,9.14779257,10.44344089,Amplification,Wild Type,Wild Type,Altered
+TCGA.AC.A3QP.01,7.427396658,9.209782321,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3QQ.01,9.123857569,11.01494802,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3TM.01,9.603772832,10.31516089,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3TN.01,7.782854096,9.422935168,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3W5.01,9.826092409,9.923896428,Amplification,Amplification,Altered,Altered
+TCGA.AC.A3W6.01,9.188141256,9.900554391,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3W7.01,7.715660039,9.682111496,Wild Type,Deletion,Altered,Wild Type
+TCGA.AC.A3YI.01,7.412603717,8.636095294,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A3YJ.01,8.240905789,8.528504902,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A4ZE.01,9.724217098,10.80518764,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A5EH.01,9.106458251,10.3415077,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A5XS.01,7.627665198,9.818818613,Wild Type,Deletion,Altered,Wild Type
+TCGA.AC.A5XU.01,10.00534384,9.814262009,Deletion,Amplification,Altered,Altered
+TCGA.AC.A62V.01,10.48845275,11.83593591,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A62X.01,10.78808207,11.53810646,Amplification,Amplification,Altered,Altered
+TCGA.AC.A62Y.01,8.093576021,9.678237439,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A6IV.01,8.493307081,9.925044029,Wild Type,Deletion,Altered,Wild Type
+TCGA.AC.A6IW.01,11.57482056,11.1851356,Amplification,Amplification,Altered,Altered
+TCGA.AC.A6IX.01,9.685579289,9.604899731,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A6NO.01,9.344724214,10.34026182,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A7VB.01,11.05970948,11.27395291,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A7VC.01,10.64999261,11.90419806,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A8OP.01,9.231957943,8.921906377,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A8OQ.01,10.1741642,11.23469171,Amplification,Deletion,Altered,Altered
+TCGA.AC.A8OR.01,8.389278554,9.574336184,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AC.A8OS.01,8.343025777,8.939294173,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A03X.01,8.478207395,9.44613214,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A03Y.01,10.54599732,10.64784513,Amplification,Amplification,Altered,Altered
+TCGA.AN.A041.01,9.294464525,10.51813184,Amplification,Wild Type,Wild Type,Altered
+TCGA.AN.A046.01,9.607324765,9.544829234,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A049.01,9.837927478,11.1270722,Amplification,Wild Type,Wild Type,Altered
+TCGA.AN.A04A.01,9.16643929,10.59807112,Wild Type,Deletion,Altered,Wild Type
+TCGA.AN.A04C.01,10.69104555,10.56789905,Deletion,Amplification,Altered,Altered
+TCGA.AN.A04D.01,11.59875506,12.21009598,Amplification,Wild Type,Wild Type,Altered
+TCGA.AN.A0AJ.01,10.98698682,11.57895758,Amplification,Wild Type,Wild Type,Altered
+TCGA.AN.A0AK.01,11.63683304,11.22972009,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0AL.01,12.11487452,11.0976503,Wild Type,Amplification,Altered,Wild Type
+TCGA.AN.A0AM.01,11.42183867,11.01666902,Amplification,Amplification,Altered,Altered
+TCGA.AN.A0AR.01,12.97877123,10.4100909,Deletion,Amplification,Altered,Altered
+TCGA.AN.A0AS.01,9.255864194,9.116809188,Amplification,Wild Type,Wild Type,Altered
+TCGA.AN.A0AT.01,11.57459353,10.96463689,Deletion,Wild Type,Wild Type,Altered
+TCGA.AN.A0FD.01,8.822105525,10.19501533,Wild Type,Deletion,Altered,Wild Type
+TCGA.AN.A0FF.01,10.19014567,10.01329475,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0FJ.01,11.44850868,12.04162151,Amplification,Amplification,Altered,Altered
+TCGA.AN.A0FK.01,9.622234891,9.997617023,Wild Type,Amplification,Altered,Wild Type
+TCGA.AN.A0FL.01,9.373443763,10.24641996,Amplification,Deletion,Altered,Altered
+TCGA.AN.A0FN.01,8.781982561,8.975432435,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0FS.01,8.292050095,10.01853403,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0FT.01,8.339867814,9.006014642,Deletion,Amplification,Altered,Altered
+TCGA.AN.A0FV.01,9.076732773,10.60332962,Wild Type,Deletion,Altered,Wild Type
+TCGA.AN.A0FW.01,10.2841879,10.81288323,Amplification,Amplification,Altered,Altered
+TCGA.AN.A0FX.01,10.82197324,12.27124707,Amplification,Wild Type,Wild Type,Altered
+TCGA.AN.A0FY.01,10.77222384,11.4672591,Wild Type,Amplification,Altered,Wild Type
+TCGA.AN.A0FZ.01,9.263797348,9.795486118,Amplification,Amplification,Altered,Altered
+TCGA.AN.A0XL.01,9.273145191,9.713144184,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0XN.01,9.057639803,9.681981533,Wild Type,Amplification,Altered,Wild Type
+TCGA.AN.A0XO.01,8.981433138,10.08112388,Amplification,Amplification,Altered,Altered
+TCGA.AN.A0XP.01,8.413437531,9.174548735,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0XR.01,10.43851119,10.52382656,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0XS.01,8.273902807,9.483158758,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0XT.01,8.440067678,9.458057945,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0XU.01,11.80092416,11.53490104,Amplification,Amplification,Altered,Altered
+TCGA.AN.A0XV.01,9.354842209,9.4091151,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AN.A0XW.01,10.55061213,9.912079464,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A03L.01,9.881239407,10.59504297,Deletion,Deletion,Altered,Altered
+TCGA.AO.A03M.01,10.55877465,10.51205895,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A03N.01,10.16749341,9.371759223,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A03O.01,10.85326276,11.20026721,Amplification,Amplification,Altered,Altered
+TCGA.AO.A03P.01,10.73392202,10.24013541,Deletion,Amplification,Altered,Altered
+TCGA.AO.A03R.01,10.87736083,10.70635787,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A03T.01,9.909959068,9.701252739,Wild Type,Deletion,Altered,Wild Type
+TCGA.AO.A03U.01,8.182121184,8.855843353,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A03V.01,8.488800171,9.970048354,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0J2.01,12.01649144,10.78923203,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A0J3.01,10.39275746,10.5849625,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0J4.01,11.24958163,11.05826914,Amplification,Amplification,Altered,Altered
+TCGA.AO.A0J5.01,9.671797562,10.01882609,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0J6.01,11.12468354,11.01794974,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0J7.01,10.40930607,11.65626396,Amplification,Amplification,Altered,Altered
+TCGA.AO.A0J8.01,8.516598287,9.590751706,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0J9.01,9.701542126,9.430561272,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A0JA.01,10.25355206,9.490036562,Deletion,Wild Type,Wild Type,Altered
+TCGA.AO.A0JB.01,9.131856961,8.934787748,Deletion,Wild Type,Wild Type,Altered
+TCGA.AO.A0JC.01,8.609455798,9.561891249,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0JD.01,11.45720643,10.84383471,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A0JE.01,9.452568667,10.54526376,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0JF.01,7.961438118,9.020832746,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0JG.01,7.760314106,9.045868849,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0JI.01,9.938772431,10.18089128,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0JJ.01,9.214676107,10.41968636,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A0JL.01,10.54698125,9.256711126,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A0JM.01,10.68337188,10.104887,Deletion,Wild Type,Wild Type,Altered
+TCGA.AO.A124.01,11.61397359,11.48817153,Deletion,Amplification,Altered,Altered
+TCGA.AO.A125.01,8.375526042,8.180560643,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A126.01,9.012956893,9.376144929,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A128.01,10.09284962,11.40181283,Amplification,Wild Type,Wild Type,Altered
+TCGA.AO.A129.01,12.44543135,10.84246035,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A12A.01,8.55054287,9.231547611,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A12B.01,8.926313787,8.936187394,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A12D.01,9.327065301,9.670886354,Amplification,Deletion,Altered,Altered
+TCGA.AO.A12E.01,10.25286645,10.43526396,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A12F.01,11.64220065,10.86025673,Wild Type,Amplification,Altered,Wild Type
+TCGA.AO.A12G.01,9.003152449,9.738430088,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A12H.01,9.141167084,8.999828106,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A1KO.01,6.543884035,8.972994141,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A1KP.01,9.84174202,9.870919496,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AO.A1KQ.01,11.32726071,10.04139906,Deletion,Amplification,Altered,Altered
+TCGA.AO.A1KR.01,11.94885267,11.50681831,Amplification,Amplification,Altered,Altered
+TCGA.AO.A1KS.01,10.77258675,9.027527309,Deletion,Amplification,Altered,Altered
+TCGA.AO.A1KT.01,10.69031233,10.95584603,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AQ.A04H.01,10.27105444,10.8130757,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AQ.A04J.01,11.88922255,11.8379393,Wild Type,Amplification,Altered,Wild Type
+TCGA.AQ.A04L.01,9.354218522,9.923213076,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AQ.A0Y5.01,7.911469888,9.506809387,Wild Type,Amplification,Altered,Wild Type
+TCGA.AQ.A1H2.01,7.956509747,9.27007803,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AQ.A1H3.01,9.253010692,9.901571383,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AQ.A54N.01,9.574419447,10.60693259,Amplification,Wild Type,Wild Type,Altered
+TCGA.AQ.A54O.01,8.094758614,9.28633828,Amplification,Deletion,Altered,Altered
+TCGA.AQ.A7U7.01,9.042534906,9.643448571,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A0TP.01,11.17827269,12.07740992,Amplification,Wild Type,Wild Type,Altered
+TCGA.AR.A0TQ.01,11.26114292,11.00946475,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A0TR.01,7.029662693,9.124121312,Wild Type,Deletion,Altered,Wild Type
+TCGA.AR.A0TS.01,11.72004755,10.81688765,Deletion,Amplification,Altered,Altered
+TCGA.AR.A0TT.01,9.615837429,10.10555499,Deletion,Wild Type,Wild Type,Altered
+TCGA.AR.A0TV.01,10.97576917,10.91118973,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A0TW.01,8.995795411,9.99315069,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A0TX.01,9.769166743,10.00192888,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A0TY.01,10.81427002,11.21532064,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A0TZ.01,9.569885981,10.85275577,Deletion,Deletion,Altered,Altered
+TCGA.AR.A0U0.01,10.44589427,10.07427529,Wild Type,Deletion,Altered,Wild Type
+TCGA.AR.A0U1.01,10.73641884,10.11698069,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A0U2.01,11.62147499,11.13859819,Deletion,Deletion,Altered,Altered
+TCGA.AR.A0U3.01,11.24675247,10.60947427,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A0U4.01,11.832538,11.04600532,Amplification,Amplification,Altered,Altered
+TCGA.AR.A1AH.01,11.20356824,10.37258215,Deletion,Wild Type,Wild Type,Altered
+TCGA.AR.A1AI.01,11.31916969,11.52013246,Amplification,Deletion,Altered,Altered
+TCGA.AR.A1AJ.01,10.68971849,11.33161118,Amplification,Wild Type,Wild Type,Altered
+TCGA.AR.A1AK.01,10.00873674,9.946562735,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A1AL.01,8.623768118,9.329229013,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AM.01,7.343327868,9.19196478,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AN.01,9.150308341,9.994919089,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AO.01,9.591135207,9.898494069,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AP.01,9.599816164,10.40219135,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AQ.01,11.84458024,10.80761252,Deletion,Amplification,Altered,Altered
+TCGA.AR.A1AR.01,10.48588967,10.73337976,Wild Type,Deletion,Altered,Wild Type
+TCGA.AR.A1AS.01,9.390586009,11.18925626,Amplification,Wild Type,Wild Type,Altered
+TCGA.AR.A1AU.01,9.817706389,9.943968197,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AV.01,8.808249888,9.924025634,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AW.01,9.477653045,10.15893782,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AX.01,9.546672638,10.29789067,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A1AY.01,11.92393653,11.53733975,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24H.01,11.25601993,11.08992711,Deletion,Amplification,Altered,Altered
+TCGA.AR.A24K.01,9.71690518,10.51884983,Amplification,Deletion,Altered,Altered
+TCGA.AR.A24L.01,9.811928544,9.981082021,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24M.01,8.580808779,10.49200337,Amplification,Wild Type,Wild Type,Altered
+TCGA.AR.A24N.01,9.882526896,10.40419425,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24O.01,9.439604439,9.654920602,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24P.01,9.625995527,10.34140763,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24Q.01,11.91652143,10.65339148,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A24R.01,10.55408996,10.46507658,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24S.01,10.08968881,10.1652462,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24T.01,7.933731959,9.645193669,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24U.01,9.580610953,9.929555795,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24V.01,7.690465985,9.918797659,Amplification,Deletion,Altered,Altered
+TCGA.AR.A24W.01,7.605775805,9.033293594,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A24X.01,8.786867495,9.620903431,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A24Z.01,10.92401078,10.46026134,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A250.01,9.983136126,9.955245954,Deletion,Wild Type,Wild Type,Altered
+TCGA.AR.A251.01,10.436191,11.16525248,Amplification,Deletion,Altered,Altered
+TCGA.AR.A252.01,8.701379245,9.696517266,Wild Type,Deletion,Altered,Wild Type
+TCGA.AR.A254.01,9.49498955,10.50626791,Wild Type,Deletion,Altered,Wild Type
+TCGA.AR.A255.01,9.487413994,10.65306898,Amplification,Wild Type,Wild Type,Altered
+TCGA.AR.A256.01,11.81260251,11.51080372,Amplification,Deletion,Altered,Altered
+TCGA.AR.A2LE.01,8.16905311,8.730140632,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A2LH.01,9.116674054,10.27760125,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A2LJ.01,8.800812559,10.05169837,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A2LK.01,10.54373752,11.2029625,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A2LM.01,6.557832801,9.600786375,Wild Type,Deletion,Altered,Wild Type
+TCGA.AR.A2LN.01,6.239653897,8.413073591,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A2LO.01,9.750377046,10.55195814,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A2LQ.01,8.359863742,9.110608586,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A5QM.01,9.241585192,9.364084302,Wild Type,Amplification,Altered,Wild Type
+TCGA.AR.A5QN.01,9.157071508,10.11760414,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.AR.A5QP.01,8.714348564,10.41475922,Amplification,Wild Type,Wild Type,Altered
+TCGA.AR.A5QQ.01,11.45898071,11.53417155,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0I1.01,9.836036149,10.6034409,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0I2.01,12.06506602,11.49271445,Amplification,Amplification,Altered,Altered
+TCGA.B6.A0I5.01,8.432399921,8.994319491,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0I9.01,10.57604968,10.73389661,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IA.01,9.734521651,9.776206,Amplification,Wild Type,Wild Type,Altered
+TCGA.B6.A0IB.01,10.59590082,10.54204519,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IC.01,9.205030777,9.570440161,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IE.01,9.501550607,10.4260865,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IG.01,9.809629881,10.53656778,Deletion,Deletion,Altered,Altered
+TCGA.B6.A0IH.01,6.281336604,9.179436406,Wild Type,Deletion,Altered,Wild Type
+TCGA.B6.A0IJ.01,12.63178866,11.93818286,Amplification,Amplification,Altered,Altered
+TCGA.B6.A0IK.01,10.31596467,11.10734787,Amplification,Deletion,Altered,Altered
+TCGA.B6.A0IM.01,10.04109784,10.61011129,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IN.01,9.424865417,9.21705861,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IO.01,9.869083296,9.960692696,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A0IP.01,9.470782906,10.22629176,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0IQ.01,11.84853688,12.21690345,Amplification,Wild Type,Wild Type,Altered
+TCGA.B6.A0RE.01,11.79580428,10.72166317,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A0RG.01,10.25731712,9.871900619,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0RH.01,8.817268296,10.19421513,Wild Type,Deletion,Altered,Wild Type
+TCGA.B6.A0RI.01,9.488121312,9.948044487,Wild Type,Deletion,Altered,Wild Type
+TCGA.B6.A0RL.01,10.72499126,11.44902996,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0RM.01,9.099518767,10.5600844,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0RN.01,6.955975313,9.448878244,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0RO.01,7.870820884,9.386103908,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A0RP.01,7.963445224,9.709873028,Amplification,Deletion,Altered,Altered
+TCGA.B6.A0RQ.01,6.105881278,8.727563139,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0RS.01,10.47407094,10.48049739,Deletion,Amplification,Altered,Altered
+TCGA.B6.A0RT.01,10.75330869,10.51009161,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0RU.01,11.08873525,11.95558816,Amplification,Deletion,Altered,Altered
+TCGA.B6.A0RV.01,8.530343907,10.43637841,Wild Type,Deletion,Altered,Wild Type
+TCGA.B6.A0WS.01,9.452543958,10.39627297,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0WT.01,9.214309406,10.24944534,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0WV.01,10.51486196,10.54716446,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A0WW.01,10.21061047,9.96804754,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0WX.01,9.804429535,10.64028109,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0WY.01,8.964909746,9.676346755,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A0WZ.01,9.592632692,9.426258464,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0X0.01,8.949129264,10.00502096,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0X1.01,13.15206297,10.35281589,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A0X4.01,7.902568064,8.768399389,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0X5.01,11.40970384,11.0233316,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A0X7.01,7.791280123,9.336245445,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A1KC.01,10.11045721,10.34339672,Amplification,Amplification,Altered,Altered
+TCGA.B6.A1KF.01,11.55928148,11.05088256,Amplification,Deletion,Altered,Altered
+TCGA.B6.A1KI.01,7.870050252,8.576930219,Deletion,Amplification,Altered,Altered
+TCGA.B6.A1KN.01,10.17042585,10.93528294,Wild Type,Deletion,Altered,Wild Type
+TCGA.B6.A2IU.01,9.09117089,10.63396696,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A3ZX.01,11.13713845,10.24778514,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A400.01,11.67542342,11.07543235,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A401.01,8.416387985,9.885574364,Amplification,Wild Type,Wild Type,Altered
+TCGA.B6.A402.01,10.92334234,10.64056128,Wild Type,Amplification,Altered,Wild Type
+TCGA.B6.A408.01,8.627789206,10.15823098,Amplification,Amplification,Altered,Altered
+TCGA.B6.A409.01,9.776600816,10.04526822,Deletion,Deletion,Altered,Altered
+TCGA.B6.A40B.01,9.726034191,10.16414013,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.B6.A40C.01,10.12458662,10.18706747,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0AU.01,10.61731134,10.47921439,Amplification,Amplification,Altered,Altered
+TCGA.BH.A0AV.01,12.00363034,12.16099958,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0AW.01,9.578517991,10.15078813,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0AY.01,9.317159328,9.79935934,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0AZ.01,7.732615177,9.103586809,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0B0.01,8.494103547,9.787401446,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0B2.01,8.380820341,9.518641354,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0B3.01,11.59498235,10.88494128,Deletion,Deletion,Altered,Altered
+TCGA.BH.A0B4.01,9.678799057,10.13377157,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0B5.01,10.70973865,10.85790326,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0B7.01,9.311326001,9.848646411,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0B9.01,12.27359748,12.07826091,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0BA.01,9.327732268,9.85757829,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0BC.01,10.0717439,11.16755614,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BD.01,10.79106519,11.07611412,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BF.01,9.701396573,9.870349306,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BG.01,10.68075509,10.07458304,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0BJ.01,8.401997305,9.485549596,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A0BL.01,11.56325348,11.15043274,Amplification,Amplification,Altered,Altered
+TCGA.BH.A0BM.01,5.962620739,7.958674506,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BO.01,7.016329167,7.913433985,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BP.01,7.197236355,9.129741515,Deletion,Deletion,Altered,Altered
+TCGA.BH.A0BQ.01,8.324725112,9.521694653,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BR.01,9.817909402,9.189411948,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A0BS.01,9.178012441,9.101479372,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BT.01,8.756049205,9.359185108,Amplification,Amplification,Altered,Altered
+TCGA.BH.A0BV.01,9.66644949,10.25097341,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0BW.01,10.29519496,10.71525848,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0BZ.01,10.2809911,10.40895594,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A0C0.01,10.15858444,10.41285561,Deletion,Deletion,Altered,Altered
+TCGA.BH.A0C1.01,9.721905778,9.946765945,Deletion,Amplification,Altered,Altered
+TCGA.BH.A0C3.01,9.540674396,10.02869346,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0C7.01,10.63076766,11.51042298,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0DD.01,11.37875545,11.40297473,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DE.01,8.47801724,9.219819523,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DG.01,9.140630412,9.971644137,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0DH.01,8.34780294,10.7213043,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0DI.01,8.665176004,9.56504875,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DK.01,9.6277965,10.4162064,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0DL.01,11.48328676,11.23771189,Amplification,Amplification,Altered,Altered
+TCGA.BH.A0DO.01,7.062963557,8.813357939,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DP.01,8.401186723,9.522926717,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DQ.01,8.142479812,10.01473188,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0DS.01,7.617202962,8.636711615,Amplification,Wild Type,Wild Type,Altered
+TCGA.BH.A0DT.01,8.306061689,9.141614159,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DV.01,7.391750538,8.994885156,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DX.01,9.038770872,9.966690013,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0DZ.01,10.25916654,10.41242165,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A0E0.01,11.02643353,10.97918937,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0E1.01,10.77746903,10.21959207,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0E2.01,10.65071072,10.1103528,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0E6.01,10.01938223,10.09538384,Deletion,Deletion,Altered,Altered
+TCGA.BH.A0E7.01,8.618110153,9.311630261,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0E9.01,8.332399135,9.728275981,Amplification,Wild Type,Wild Type,Altered
+TCGA.BH.A0EA.01,6.772281579,8.761770612,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0EB.01,8.468330791,9.500009277,Amplification,Amplification,Altered,Altered
+TCGA.BH.A0EE.01,10.26590801,11.25276003,Wild Type,Deletion,Altered,Wild Type
+TCGA.BH.A0EI.01,8.851111867,10.1147314,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0GY.01,9.420802382,9.836738391,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0GZ.01,9.280912249,10.23472165,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0H0.01,10.19881334,10.87240555,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0H3.01,7.60361151,9.055659331,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0H5.01,8.609385614,9.689800592,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0H6.01,7.507422028,9.576234901,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0H7.01,9.316258901,10.64931008,Amplification,Deletion,Altered,Altered
+TCGA.BH.A0H9.01,9.388342393,10.18746343,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0HA.01,9.044749285,9.581944339,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0HB.01,9.46719999,11.30842436,Amplification,Deletion,Altered,Altered
+TCGA.BH.A0HI.01,8.443362148,9.180319454,Amplification,Wild Type,Wild Type,Altered
+TCGA.BH.A0HK.01,9.156442125,9.246569602,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0HO.01,8.804627971,8.994494871,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0HP.01,9.162290614,9.44603286,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0HQ.01,8.29548427,9.461585855,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0HU.01,10.84058125,11.54438975,Amplification,Deletion,Altered,Altered
+TCGA.BH.A0HW.01,9.705412943,9.055060048,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A0HX.01,9.790333833,10.38848017,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A0HY.01,10.25117467,10.99433222,Amplification,Wild Type,Wild Type,Altered
+TCGA.BH.A0RX.01,10.26107238,10.57081392,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0W3.01,10.17378955,10.90207358,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0W4.01,8.997896415,9.609352368,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0W5.01,7.87690366,9.711883749,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0W7.01,9.226101462,10.13012005,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A0WA.01,10.71926902,13.00818874,Amplification,Deletion,Altered,Altered
+TCGA.BH.A18F.01,10.28106067,10.4796085,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A18G.01,9.295610539,9.638888382,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A18H.01,8.485704551,8.967174373,Amplification,Deletion,Altered,Altered
+TCGA.BH.A18I.01,9.44740356,10.02218746,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A18J.01,9.764096971,10.28325044,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A18K.01,9.888580404,9.204407303,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A18L.01,11.03854181,10.38054765,Deletion,Amplification,Altered,Altered
+TCGA.BH.A18M.01,8.968845319,9.709088983,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A18N.01,8.729912991,10.14827319,Amplification,Amplification,Altered,Altered
+TCGA.BH.A18P.01,10.28580676,9.72795448,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A18Q.01,11.5270762,12.25052345,Amplification,Amplification,Altered,Altered
+TCGA.BH.A18R.01,11.82512575,11.69199645,Amplification,Amplification,Altered,Altered
+TCGA.BH.A18S.01,7.235870633,8.927677237,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A18T.01,12.61252529,11.44236817,Amplification,Amplification,Altered,Altered
+TCGA.BH.A18U.01,10.0560551,11.52649924,Amplification,Wild Type,Wild Type,Altered
+TCGA.BH.A18V.01,12.84499404,11.73838364,Amplification,Amplification,Altered,Altered
+TCGA.BH.A1EN.01,9.759956406,9.518153486,Deletion,Deletion,Altered,Altered
+TCGA.BH.A1EO.01,8.608299183,9.786877294,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A1ES.01,9.747229613,10.50120027,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1ET.01,7.318398194,8.710276086,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1EU.01,7.831015825,9.107028715,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A1EV.01,8.330764536,11.1583951,Amplification,Deletion,Altered,Altered
+TCGA.BH.A1EW.01,10.12478046,8.270024285,Deletion,Amplification,Altered,Altered
+TCGA.BH.A1EX.01,8.581211882,9.330076555,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1EY.01,8.014957778,9.318077276,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1F0.01,10.02175731,9.705749872,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1F2.01,9.692634679,9.543103373,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1F5.01,8.041889088,8.564801128,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1F6.01,10.72137266,10.385981,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1F8.01,10.24814105,10.35250696,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FB.01,7.673831991,9.102946767,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FC.01,12.4467499,11.39177524,Amplification,Amplification,Altered,Altered
+TCGA.BH.A1FD.01,10.5808992,10.46289076,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FE.01,10.06676193,10.34672425,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FG.01,8.266987942,9.278855958,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FH.01,7.304036393,9.017860681,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FJ.01,10.55794229,10.98496666,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FL.01,9.48358001,10.07835098,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FM.01,10.25847181,9.987079222,Amplification,Deletion,Altered,Altered
+TCGA.BH.A1FN.01,10.59260653,11.19933494,Amplification,Amplification,Altered,Altered
+TCGA.BH.A1FR.01,9.343678746,9.962987074,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A1FU.01,9.526084466,9.619524891,Deletion,Deletion,Altered,Altered
+TCGA.BH.A201.01,8.906623071,9.500411695,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A202.01,10.4101015,11.47568784,Amplification,Amplification,Altered,Altered
+TCGA.BH.A203.01,11.21008075,9.641390682,Deletion,Amplification,Altered,Altered
+TCGA.BH.A204.01,10.41244282,11.07598715,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A208.01,8.959949786,8.177344785,Deletion,Wild Type,Wild Type,Altered
+TCGA.BH.A209.01,11.46299297,11.01600038,Amplification,Wild Type,Wild Type,Altered
+TCGA.BH.A28O.01,6.895472283,9.199480954,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A28Q.01,7.167046761,9.625310677,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A2L8.01,8.637132012,9.135427131,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A42T.01,10.88757858,11.29189014,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A42U.01,7.399923014,9.20948992,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A42V.01,7.705321354,9.270304672,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A5IZ.01,12.77837081,11.56378258,Amplification,Amplification,Altered,Altered
+TCGA.BH.A5J0.01,9.012482078,10.24739352,Amplification,Amplification,Altered,Altered
+TCGA.BH.A6R8.01,8.324599115,9.654949235,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A6R9.01,8.445788767,8.802322485,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A8FY.01,8.751724803,9.660370338,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.A8FZ.01,8.046398291,9.598287035,Wild Type,Amplification,Altered,Wild Type
+TCGA.BH.A8G0.01,7.059777069,9.059136222,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.BH.AB28.01,9.109838488,10.60897553,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A12K.01,12.05594329,11.92725204,Amplification,Amplification,Altered,Altered
+TCGA.C8.A12L.01,11.70475095,10.39114691,Deletion,Amplification,Altered,Altered
+TCGA.C8.A12M.01,9.149368616,10.14371483,Amplification,Wild Type,Wild Type,Altered
+TCGA.C8.A12N.01,7.897482468,8.902911691,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A12O.01,10.50819093,9.830462917,Wild Type,Amplification,Altered,Wild Type
+TCGA.C8.A12P.01,10.96706771,10.54932262,Deletion,Amplification,Altered,Altered
+TCGA.C8.A12Q.01,9.595033646,10.217158,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A12T.01,10.66502496,11.08284759,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A12U.01,11.53364608,10.68844266,Wild Type,Amplification,Altered,Wild Type
+TCGA.C8.A12V.01,10.10285493,10.73313399,Amplification,Wild Type,Wild Type,Altered
+TCGA.C8.A12W.01,11.63608985,11.24238219,Deletion,Amplification,Altered,Altered
+TCGA.C8.A12X.01,9.842021849,10.44704189,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A12Y.01,9.502626969,10.47161425,Amplification,Wild Type,Wild Type,Altered
+TCGA.C8.A12Z.01,10.51766939,10.28421104,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A130.01,11.97610224,12.4565418,Amplification,Amplification,Altered,Altered
+TCGA.C8.A131.01,10.33515584,10.15795319,Wild Type,Deletion,Altered,Wild Type
+TCGA.C8.A132.01,9.48999443,10.36242605,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A133.01,8.572745695,9.019721371,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A134.01,11.40242055,12.07884129,Amplification,Deletion,Altered,Altered
+TCGA.C8.A135.01,10.17065118,10.3433634,Deletion,Wild Type,Wild Type,Altered
+TCGA.C8.A137.01,10.5528996,10.60752451,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A138.01,9.144757648,9.248321353,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A1HE.01,9.294914771,9.37359384,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A1HF.01,10.86803542,11.29231013,Deletion,Wild Type,Wild Type,Altered
+TCGA.C8.A1HG.01,10.62594623,10.03835661,Deletion,Wild Type,Wild Type,Altered
+TCGA.C8.A1HI.01,8.2284243,9.364977258,Amplification,Deletion,Altered,Altered
+TCGA.C8.A1HJ.01,12.46090635,11.10985024,Wild Type,Amplification,Altered,Wild Type
+TCGA.C8.A1HK.01,10.68043865,9.76274246,Deletion,Amplification,Altered,Altered
+TCGA.C8.A1HL.01,11.1385662,10.15138446,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A1HM.01,11.45273544,11.11402859,Deletion,Amplification,Altered,Altered
+TCGA.C8.A1HN.01,10.83150519,10.58643638,Amplification,Amplification,Altered,Altered
+TCGA.C8.A1HO.01,10.3707201,10.40221267,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A26V.01,9.880099281,10.04683753,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A26W.01,10.63145902,11.53196622,Amplification,Wild Type,Wild Type,Altered
+TCGA.C8.A26X.01,10.24897119,10.24188784,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A26Y.01,10.30672249,11.25069516,Wild Type,Deletion,Altered,Wild Type
+TCGA.C8.A26Z.01,9.916073517,9.617223169,Wild Type,Amplification,Altered,Wild Type
+TCGA.C8.A273.01,10.1287419,10.58121942,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A274.01,8.782054663,9.926596957,Wild Type,Deletion,Altered,Wild Type
+TCGA.C8.A275.01,10.85509427,10.36590683,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A278.01,9.788537271,10.91814767,Wild Type,Deletion,Altered,Wild Type
+TCGA.C8.A27A.01,11.2054084,10.97665004,Wild Type,Deletion,Altered,Wild Type
+TCGA.C8.A27B.01,11.1409831,12.23867343,Amplification,Deletion,Altered,Altered
+TCGA.C8.A3M7.01,8.879292231,9.131957251,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A3M8.01,9.78841655,11.37486017,Amplification,Wild Type,Wild Type,Altered
+TCGA.C8.A8HP.01,10.1480062,10.69839214,Amplification,Wild Type,Wild Type,Altered
+TCGA.C8.A8HQ.01,10.85442429,10.46391258,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.C8.A8HR.01,10.00038035,10.55081411,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A13Y.01,11.89265665,12.17902268,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A13Z.01,11.35091709,11.28181414,Amplification,Amplification,Altered,Altered
+TCGA.D8.A140.01,9.404400775,10.18617616,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A141.01,8.537921131,9.171331945,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A142.01,9.82374936,10.26688022,Wild Type,Deletion,Altered,Wild Type
+TCGA.D8.A143.01,12.35633092,12.81701561,Amplification,Amplification,Altered,Altered
+TCGA.D8.A145.01,8.234161185,9.910281449,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A147.01,11.34018392,11.31128853,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A1J8.01,10.76175898,9.395358474,Deletion,Amplification,Altered,Altered
+TCGA.D8.A1J9.01,9.713742204,10.55948225,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JA.01,9.257112007,9.509359353,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JB.01,7.711247094,8.809726334,Deletion,Wild Type,Wild Type,Altered
+TCGA.D8.A1JC.01,10.54725123,10.69635034,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A1JD.01,10.57598352,10.92850357,Amplification,Amplification,Altered,Altered
+TCGA.D8.A1JE.01,9.026069676,10.14008843,Wild Type,Deletion,Altered,Wild Type
+TCGA.D8.A1JF.01,9.57694722,8.625496989,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JG.01,10.11565494,10.12554262,Deletion,Deletion,Altered,Altered
+TCGA.D8.A1JH.01,7.725863829,9.211537918,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JI.01,8.467218334,9.416732093,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JJ.01,9.996049728,10.75332541,Amplification,Wild Type,Wild Type,Altered
+TCGA.D8.A1JK.01,10.73250664,10.65757749,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JL.01,12.1704728,10.61780721,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A1JM.01,13.30196768,11.7809785,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A1JN.01,7.789885717,8.413276732,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JP.01,9.940395825,12.07035914,Amplification,Wild Type,Wild Type,Altered
+TCGA.D8.A1JS.01,7.937762214,8.177569032,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JT.01,9.451596466,9.188564121,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1JU.01,5.709072781,7.927327605,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1X5.01,7.879889522,11.32546849,Amplification,Deletion,Altered,Altered
+TCGA.D8.A1X6.01,9.075233108,10.7350821,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1X7.01,8.916157138,10.05315207,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1X8.01,9.153701487,9.471998261,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1X9.01,9.214161241,10.4943656,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XA.01,9.41041107,10.45474139,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XB.01,8.961550983,9.878205753,Deletion,Wild Type,Wild Type,Altered
+TCGA.D8.A1XC.01,8.518177096,8.808314253,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XD.01,9.416358426,10.26781667,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A1XF.01,11.04651016,11.14707134,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XG.01,8.867834703,9.663394435,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XJ.01,10.71454605,12.18860121,Amplification,Amplification,Altered,Altered
+TCGA.D8.A1XK.01,12.5523641,12.04983154,Amplification,Amplification,Altered,Altered
+TCGA.D8.A1XL.01,10.30230763,11.96167035,Amplification,Wild Type,Wild Type,Altered
+TCGA.D8.A1XM.01,8.43288844,10.00288532,Wild Type,Deletion,Altered,Wild Type
+TCGA.D8.A1XO.01,8.193737252,9.29788838,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XQ.01,9.391668923,12.02539222,Amplification,Deletion,Altered,Altered
+TCGA.D8.A1XR.01,9.596726473,8.8106616,Deletion,Wild Type,Wild Type,Altered
+TCGA.D8.A1XS.01,9.937247275,10.1941905,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XT.01,10.03433128,10.89885076,Amplification,Deletion,Altered,Altered
+TCGA.D8.A1XU.01,8.243421553,9.512047092,Amplification,Amplification,Altered,Altered
+TCGA.D8.A1XV.01,9.22509896,9.369562451,Amplification,Wild Type,Wild Type,Altered
+TCGA.D8.A1XW.01,9.378871385,9.094426108,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A1XY.01,6.061983516,8.006264358,Deletion,Deletion,Altered,Altered
+TCGA.D8.A1XZ.01,10.3523635,10.66826453,Deletion,Amplification,Altered,Altered
+TCGA.D8.A1Y0.01,10.64163634,10.62222574,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A1Y1.01,10.27148637,10.20529231,Deletion,Wild Type,Wild Type,Altered
+TCGA.D8.A1Y2.01,9.381757068,10.60278236,Amplification,Wild Type,Wild Type,Altered
+TCGA.D8.A1Y3.01,11.03701151,12.09339115,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27E.01,7.515991501,8.219996138,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27F.01,12.05328447,11.60736731,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A27G.01,9.56256108,8.978421605,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27H.01,10.62128267,10.39504137,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27I.01,8.517531607,9.779041343,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27K.01,8.153080767,9.086120298,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27L.01,7.772281579,9.610408476,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27M.01,11.52251778,10.27782206,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A27N.01,9.210201326,9.626692827,Deletion,Deletion,Altered,Altered
+TCGA.D8.A27P.01,8.396776011,9.271512051,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27R.01,10.92056128,10.46241025,Amplification,Amplification,Altered,Altered
+TCGA.D8.A27T.01,9.302083671,10.07262838,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27V.01,7.965963168,9.432138892,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A27W.01,10.82176601,10.76172574,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A3Z5.01,7.612780054,9.380534659,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A3Z6.01,8.52483943,9.196031574,Wild Type,Amplification,Altered,Wild Type
+TCGA.D8.A4Z1.01,7.527594294,8.958071253,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A73U.01,7.679268958,9.134693271,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A73W.01,9.093288145,8.794883692,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.D8.A73X.01,7.957276199,9.667296082,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A105.01,9.859843791,10.4433062,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A107.01,11.36409634,11.08057106,Wild Type,Amplification,Altered,Wild Type
+TCGA.E2.A108.01,8.651690355,9.694996815,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A109.01,10.71768499,11.26559747,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A10A.01,9.592195385,10.63418484,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A10B.01,9.44463187,10.18312669,Amplification,Amplification,Altered,Altered
+TCGA.E2.A10C.01,10.00378492,9.189276033,Deletion,Amplification,Altered,Altered
+TCGA.E2.A10E.01,9.642275573,9.739875099,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A10F.01,9.186973409,9.995866059,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A14N.01,12.22879765,11.36939559,Amplification,Amplification,Altered,Altered
+TCGA.E2.A14O.01,10.50952761,10.46374914,Amplification,Amplification,Altered,Altered
+TCGA.E2.A14P.01,11.37196173,11.86490963,Amplification,Amplification,Altered,Altered
+TCGA.E2.A14Q.01,8.662614974,9.162026203,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A14R.01,11.70251903,12.16551002,Amplification,Amplification,Altered,Altered
+TCGA.E2.A14S.01,10.06212711,10.05514684,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A14T.01,9.578223602,10.01126919,Deletion,Wild Type,Wild Type,Altered
+TCGA.E2.A14U.01,6.331164176,8.833892592,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A14V.01,11.45405762,11.30372939,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A14W.01,10.30981738,9.6691136,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A14X.01,9.890616926,10.85298979,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A14Y.01,11.4069012,11.36021611,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A14Z.01,8.996481963,10.73748397,Amplification,Deletion,Altered,Altered
+TCGA.E2.A150.01,11.11920053,9.5983894,Deletion,Amplification,Altered,Altered
+TCGA.E2.A152.01,9.794308635,10.05639386,Wild Type,Amplification,Altered,Wild Type
+TCGA.E2.A153.01,7.765952378,9.045085245,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A154.01,9.508884177,10.83215424,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A155.01,9.80673327,10.52820013,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A156.01,8.320480165,9.678385347,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A158.01,9.952046665,11.62771626,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A159.01,10.24029048,11.15196153,Amplification,Deletion,Altered,Altered
+TCGA.E2.A15A.01,10.86843676,10.74007587,Wild Type,Amplification,Altered,Wild Type
+TCGA.E2.A15C.01,7.810031728,9.75788999,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15D.01,7.440462249,8.998119326,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15E.01,9.072856116,9.753798391,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A15F.01,9.894811702,10.13015867,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15G.01,8.215173798,9.78487691,Amplification,Amplification,Altered,Altered
+TCGA.E2.A15H.01,10.48148665,10.73131054,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15I.01,6.790107349,8.688362223,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15J.01,8.940304787,9.370972867,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15K.01,10.53190775,10.89334704,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15L.01,10.05165759,10.16106888,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15M.01,9.867978293,9.102448178,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A15O.01,10.57047242,9.979796718,Deletion,Amplification,Altered,Altered
+TCGA.E2.A15P.01,7.503499803,9.434384283,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A15R.01,10.15224681,10.94776111,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A15S.01,11.8372889,10.96318509,Wild Type,Amplification,Altered,Wild Type
+TCGA.E2.A15T.01,9.979210812,10.88831707,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1AZ.01,13.20565276,10.88986136,Amplification,Amplification,Altered,Altered
+TCGA.E2.A1B0.01,10.54694268,10.3606057,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1B1.01,8.697311646,9.602487316,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1B4.01,6.87758476,7.75966186,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1B5.01,7.960957618,8.668495014,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1B6.01,11.25174276,10.64290911,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1BC.01,5.756991234,8.237047394,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1BD.01,8.881802251,9.982380442,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A1IE.01,10.40690651,10.73630891,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A1IF.01,9.308266211,9.496096788,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1IG.01,9.037209233,9.934080042,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1IH.01,9.413386755,9.983805931,Amplification,Amplification,Altered,Altered
+TCGA.E2.A1II.01,12.63003272,10.71006596,Deletion,Amplification,Altered,Altered
+TCGA.E2.A1IJ.01,8.031417253,9.039930715,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1IK.01,9.222191138,8.738467244,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1IL.01,8.171452047,9.265537694,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1IN.01,8.598748549,9.715587973,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1IO.01,8.588845784,9.988443271,Amplification,Amplification,Altered,Altered
+TCGA.E2.A1IU.01,8.5015108,9.787971102,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1L6.01,8.84797499,9.209170648,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1L7.01,11.52175746,11.72067606,Deletion,Wild Type,Wild Type,Altered
+TCGA.E2.A1L8.01,8.738224022,9.121748481,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1L9.01,8.749631472,8.968277991,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1LA.01,10.37891256,9.99455144,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A1LB.01,8.680900982,9.520100042,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1LE.01,10.24769021,10.49880932,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A1LG.01,10.9053494,11.37208693,Amplification,Wild Type,Wild Type,Altered
+TCGA.E2.A1LH.01,10.61343957,9.665536672,Amplification,Amplification,Altered,Altered
+TCGA.E2.A1LI.01,11.50074729,11.41451083,Amplification,Amplification,Altered,Altered
+TCGA.E2.A1LK.01,9.717188017,10.40596046,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A1LL.01,10.87333644,10.81681567,Wild Type,Deletion,Altered,Wild Type
+TCGA.E2.A2P5.01,11.12448323,10.49939747,Wild Type,Amplification,Altered,Wild Type
+TCGA.E2.A2P6.01,9.857074362,9.974027333,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A3DX.01,7.563623392,9.070850831,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A56Z.01,9.525213445,9.774230296,Wild Type,Amplification,Altered,Wild Type
+TCGA.E2.A570.01,8.864740207,9.317952958,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E2.A573.01,11.37331107,11.51900223,Amplification,Amplification,Altered,Altered
+TCGA.E2.A574.01,10.20967268,9.968033135,Deletion,Amplification,Altered,Altered
+TCGA.E2.A576.01,9.704937653,10.25002596,Deletion,Wild Type,Wild Type,Altered
+TCGA.E2.A9RU.01,10.69981534,10.91229058,Amplification,Deletion,Altered,Altered
+TCGA.E9.A1N3.01,9.358290757,9.449569628,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1N4.01,9.053393764,9.670548264,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1N5.01,10.05540446,10.38517216,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1N6.01,10.55861204,10.97060924,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A1N8.01,11.20755126,12.28962701,Amplification,Amplification,Altered,Altered
+TCGA.E9.A1N9.01,11.59961535,10.72056064,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A1NA.01,10.11573296,10.51132769,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A1NC.01,10.81811878,10.02354646,Deletion,Amplification,Altered,Altered
+TCGA.E9.A1ND.01,10.91504279,9.813053248,Deletion,Wild Type,Wild Type,Altered
+TCGA.E9.A1NE.01,10.03622857,9.901692047,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1NF.01,9.257734331,9.561759537,Amplification,Amplification,Altered,Altered
+TCGA.E9.A1NG.01,8.536293848,9.486231678,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1NH.01,7.502091873,8.828098393,Wild Type,Deletion,Altered,Wild Type
+TCGA.E9.A1NI.01,10.42339959,9.931468847,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A1QZ.01,9.849547409,10.4041836,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1R0.01,9.256088361,9.964876544,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1R2.01,9.335390355,9.820089589,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1R3.01,3.53682379,8.138589235,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1R4.01,8.293903818,9.957876883,Deletion,Deletion,Altered,Altered
+TCGA.E9.A1R5.01,8.296939143,9.093129657,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1R6.01,9.713410574,10.71248401,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A1R7.01,9.81966978,9.489454627,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1RA.01,8.574627584,9.845522982,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1RB.01,11.31241786,12.03974844,Amplification,Amplification,Altered,Altered
+TCGA.E9.A1RC.01,9.732750832,11.17679025,Amplification,Amplification,Altered,Altered
+TCGA.E9.A1RD.01,8.885394382,9.187295156,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A1RE.01,9.391823559,10.18460264,Deletion,Wild Type,Wild Type,Altered
+TCGA.E9.A1RF.01,8.893610972,11.18178586,Amplification,Wild Type,Wild Type,Altered
+TCGA.E9.A1RG.01,10.55374447,10.98569965,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A1RH.01,9.963784767,9.185859114,Amplification,Deletion,Altered,Altered
+TCGA.E9.A1RI.01,7.718231463,8.925201326,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A226.01,9.724455871,8.930332262,Deletion,Wild Type,Wild Type,Altered
+TCGA.E9.A227.01,8.86993308,9.357455235,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A228.01,10.56696733,11.04542522,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A229.01,8.495910975,9.697014457,Wild Type,Deletion,Altered,Wild Type
+TCGA.E9.A22A.01,10.61390915,10.25147058,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A22B.01,9.065908842,9.197437873,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A22D.01,10.37099248,10.34720057,Deletion,Wild Type,Wild Type,Altered
+TCGA.E9.A22E.01,9.152315268,8.975655978,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A22G.01,12.89661244,11.48558783,Deletion,Amplification,Altered,Altered
+TCGA.E9.A22H.01,10.15383066,10.52463965,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A243.01,10.87442045,10.81233777,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A244.01,11.70159237,10.30451104,Deletion,Amplification,Altered,Altered
+TCGA.E9.A245.01,9.529904867,9.528401364,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A247.01,10.84592123,10.27494883,Deletion,Amplification,Altered,Altered
+TCGA.E9.A248.01,10.44303677,10.26049619,Wild Type,Deletion,Altered,Wild Type
+TCGA.E9.A249.01,9.252731653,10.03561016,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A24A.01,8.432625411,8.918574073,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A295.01,9.238899088,9.421593605,Deletion,Amplification,Altered,Altered
+TCGA.E9.A2JS.01,10.88053248,10.21286112,Deletion,Amplification,Altered,Altered
+TCGA.E9.A2JT.01,8.870771576,10.11643494,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A3HO.01,10.70532135,11.44569774,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A3Q9.01,6.481240809,8.887470438,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A3QA.01,11.95307604,10.9907989,Wild Type,Amplification,Altered,Wild Type
+TCGA.E9.A3X8.01,7.173916941,9.217572443,Wild Type,Deletion,Altered,Wild Type
+TCGA.E9.A54X.01,9.078609835,9.279970339,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A54Y.01,9.709137245,10.37118856,Amplification,Wild Type,Wild Type,Altered
+TCGA.E9.A5FK.01,7.835077708,8.678874744,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.E9.A5FL.01,9.518373834,10.72964623,Amplification,Wild Type,Wild Type,Altered
+TCGA.E9.A5UO.01,9.287158278,11.08963585,Wild Type,Deletion,Altered,Wild Type
+TCGA.E9.A5UP.01,7.085849516,8.864978481,Amplification,Deletion,Altered,Altered
+TCGA.E9.A6HE.01,9.614446675,10.7638182,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1IW.01,10.09280999,11.26596659,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1IX.01,7.445883927,9.413221717,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1IY.01,9.526060985,9.071443591,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1IZ.01,9.467008379,10.27227986,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1J1.01,8.7673403,9.430040593,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1J2.01,6.928287407,8.875816916,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1J3.01,9.469859528,9.814374177,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1J5.01,9.715660039,10.06332766,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1J6.01,9.344251517,9.435520255,Amplification,Amplification,Altered,Altered
+TCGA.EW.A1OV.01,10.17599857,10.67644197,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1OW.01,11.33116888,11.62536639,Amplification,Amplification,Altered,Altered
+TCGA.EW.A1OX.01,9.291525285,10.0518207,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1OY.01,10.28209225,10.51880066,Wild Type,Deletion,Altered,Wild Type
+TCGA.EW.A1OZ.01,9.917193037,11.95340348,Amplification,Wild Type,Wild Type,Altered
+TCGA.EW.A1P0.01,9.50501557,9.871377025,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1P1.01,8.370818159,9.137946613,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1P3.01,9.734299782,9.82374936,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1P4.01,12.10352387,11.71772782,Wild Type,Amplification,Altered,Wild Type
+TCGA.EW.A1P5.01,8.942062859,9.830497777,Deletion,Deletion,Altered,Altered
+TCGA.EW.A1P6.01,9.030785747,10.32491184,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1P7.01,9.206560203,10.28982294,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1P8.01,13.03056369,12.13061882,Amplification,Amplification,Altered,Altered
+TCGA.EW.A1PA.01,10.86155997,10.40888166,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1PB.01,11.5532885,11.07853779,Amplification,Amplification,Altered,Altered
+TCGA.EW.A1PC.01,11.64478913,12.48989311,Amplification,Amplification,Altered,Altered
+TCGA.EW.A1PD.01,9.379079399,10.79388776,Wild Type,Deletion,Altered,Wild Type
+TCGA.EW.A1PE.01,9.042838559,9.475972509,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1PF.01,9.195204857,9.882864633,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1PG.01,6.444408662,8.252036186,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A1PH.01,10.35960682,10.42890448,Amplification,Wild Type,Wild Type,Altered
+TCGA.EW.A2FR.01,9.12693415,9.990813079,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A2FS.01,9.240898636,9.510202406,Amplification,Wild Type,Wild Type,Altered
+TCGA.EW.A2FV.01,10.35707909,10.55985504,Wild Type,Deletion,Altered,Wild Type
+TCGA.EW.A2FW.01,11.54702464,11.55390763,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A3E8.01,8.109276971,9.138192431,Deletion,Wild Type,Wild Type,Altered
+TCGA.EW.A3U0.01,11.0290318,11.62495991,Wild Type,Amplification,Altered,Wild Type
+TCGA.EW.A423.01,8.8379527,9.564576327,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A424.01,9.476669258,9.869615433,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A6S9.01,10.16021179,10.42360968,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.EW.A6SA.01,9.655192594,11.21382114,Wild Type,Deletion,Altered,Wild Type
+TCGA.EW.A6SB.01,12.23181818,10.48326156,Wild Type,Amplification,Altered,Wild Type
+TCGA.EW.A6SC.01,9.11475222,10.23435043,Wild Type,Deletion,Altered,Wild Type
+TCGA.EW.A6SD.01,9.255030931,11.08963585,Wild Type,Deletion,Altered,Wild Type
+TCGA.GI.A2C8.01,6.224873783,8.451470774,Amplification,Wild Type,Wild Type,Altered
+TCGA.GI.A2C9.01,11.25047016,9.450415349,Deletion,Amplification,Altered,Altered
+TCGA.GM.A2D9.01,7.923285883,8.388258432,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A2DA.01,8.94604069,9.340123822,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A2DB.01,10.36701061,10.17412674,Amplification,Wild Type,Wild Type,Altered
+TCGA.GM.A2DC.01,6.082121358,8.758972688,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A2DD.01,9.954993063,9.625853105,Wild Type,Amplification,Altered,Wild Type
+TCGA.GM.A2DF.01,10.71293104,10.10644516,Wild Type,Amplification,Altered,Wild Type
+TCGA.GM.A2DH.01,11.43985166,12.11128893,Amplification,Wild Type,Wild Type,Altered
+TCGA.GM.A2DI.01,7.600076438,9.660965685,Wild Type,Deletion,Altered,Wild Type
+TCGA.GM.A2DK.01,7.742322911,9.332519977,Wild Type,Deletion,Altered,Wild Type
+TCGA.GM.A2DL.01,10.08131033,10.42082343,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A2DM.01,7.593682434,8.024375091,Deletion,Wild Type,Wild Type,Altered
+TCGA.GM.A2DN.01,9.390450588,10.47814266,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A2DO.01,9.715354592,10.05926333,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A3NW.01,8.601228515,9.433975532,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A3NY.01,7.913655377,8.753226779,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A3XG.01,6.598787994,8.811660475,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A3XL.01,12.21844518,12.09192788,Amplification,Amplification,Altered,Altered
+TCGA.GM.A3XN.01,8.79795976,9.183769349,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A4E0.01,7.413247109,8.181475305,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A5PV.01,7.001869783,8.854095415,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.GM.A5PX.01,6.03784562,8.85333451,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.HN.A2NL.01,12.90780702,12.11126611,Deletion,Amplification,Altered,Altered
+TCGA.HN.A2OB.01,6.710861524,8.810063871,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.JL.A3YW.01,9.516001354,10.04995743,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.JL.A3YX.01,9.910185492,10.24710865,Deletion,Wild Type,Wild Type,Altered
+TCGA.LD.A66U.01,8.518177096,9.744714449,Wild Type,Amplification,Altered,Wild Type
+TCGA.LD.A74U.01,8.756289441,9.779783364,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LD.A7W5.01,9.044697381,10.01226138,Deletion,Amplification,Altered,Altered
+TCGA.LD.A7W6.01,9.652805545,10.11165735,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LD.A9QF.01,9.099087392,9.281107051,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LL.A440.01,8.152355834,9.194877484,Wild Type,Amplification,Altered,Wild Type
+TCGA.LL.A441.01,10.86027225,10.35324609,Wild Type,Amplification,Altered,Wild Type
+TCGA.LL.A442.01,8.970916909,10.63936784,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LL.A50Y.01,8.351142426,9.551146837,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LL.A5YL.01,9.237140633,9.179535931,Deletion,Wild Type,Wild Type,Altered
+TCGA.LL.A5YM.01,8.593316418,10.91433281,Amplification,Deletion,Altered,Altered
+TCGA.LL.A5YN.01,9.024372321,9.967226259,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LL.A5YO.01,9.911258648,10.73321027,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LL.A5YP.01,11.19762831,11.84354816,Amplification,Amplification,Altered,Altered
+TCGA.LL.A6FP.01,7.37521324,9.991720238,Wild Type,Amplification,Altered,Wild Type
+TCGA.LL.A6FQ.01,8.693159352,10.00143634,Wild Type,Amplification,Altered,Wild Type
+TCGA.LL.A6FR.01,9.39664545,11.36544759,Amplification,Deletion,Altered,Altered
+TCGA.LL.A73Y.01,9.863151739,9.880442179,Amplification,Amplification,Altered,Altered
+TCGA.LL.A73Z.01,8.882630823,9.785522762,Wild Type,Deletion,Altered,Wild Type
+TCGA.LL.A740.01,8.753434057,9.011615836,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LL.A7SZ.01,10.5149507,11.22017878,Wild Type,Amplification,Altered,Wild Type
+TCGA.LL.A7T0.01,10.3733002,11.10307795,Deletion,Deletion,Altered,Altered
+TCGA.LL.A8F5.01,11.66175138,12.33402741,Amplification,Amplification,Altered,Altered
+TCGA.LL.A9Q3.01,8.469214439,9.230097313,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.LQ.A4E4.01,10.44565636,10.40197811,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.MS.A51U.01,8.105756638,8.848917083,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OK.A5Q2.01,9.881598857,10.30619843,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5D6.01,8.874566456,9.09776616,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5D7.01,12.73471174,11.78909751,Wild Type,Amplification,Altered,Wild Type
+TCGA.OL.A5D8.01,9.308496034,10.40144488,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5DA.01,8.486678177,9.636383547,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5RU.01,7.866697838,9.05614183,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5RV.01,8.405090393,9.419509397,Wild Type,Amplification,Altered,Wild Type
+TCGA.OL.A5RW.01,10.9579146,11.76410444,Amplification,Amplification,Altered,Altered
+TCGA.OL.A5RX.01,7.271873834,9.237322312,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5RY.01,9.644335806,10.39233889,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A5RZ.01,11.19507687,11.13741386,Wild Type,Amplification,Altered,Wild Type
+TCGA.OL.A5S0.01,10.39326174,10.94644577,Amplification,Wild Type,Wild Type,Altered
+TCGA.OL.A66H.01,9.427945522,9.773241428,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A66I.01,11.24904825,11.30203339,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A66J.01,8.083660152,9.481466464,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A66K.01,8.028878521,9.509379149,Deletion,Deletion,Altered,Altered
+TCGA.OL.A66L.01,7.623347466,9.104462471,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A66N.01,7.330325342,9.584707001,Deletion,Wild Type,Wild Type,Altered
+TCGA.OL.A66O.01,10.2818605,10.9619199,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A66P.01,9.207277936,9.731184939,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A6VO.01,11.48458628,11.06250492,Deletion,Wild Type,Wild Type,Altered
+TCGA.OL.A6VQ.01,7.970077123,9.396123089,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A6VR.01,7.89022171,10.0074338,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.OL.A97C.01,9.70639759,9.860197746,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.PE.A5DC.01,10.69182202,10.95672463,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.PE.A5DD.01,9.681893714,10.18982456,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.PE.A5DE.01,9.394674903,10.18239435,Amplification,Wild Type,Wild Type,Altered
+TCGA.PL.A8LV.01,10.15977045,11.28657509,Amplification,Deletion,Altered,Altered
+TCGA.PL.A8LX.01,8.389885119,9.714992434,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.PL.A8LY.01,8.923553307,10.25646819,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.PL.A8LZ.01,10.61958725,10.99410589,Amplification,Wild Type,Wild Type,Altered
+TCGA.S3.A6ZF.01,10.53754845,10.58541327,Amplification,Amplification,Altered,Altered
+TCGA.S3.A6ZG.01,9.899935396,10.4349826,Deletion,Amplification,Altered,Altered
+TCGA.S3.A6ZH.01,10.15010267,11.57200855,Amplification,Wild Type,Wild Type,Altered
+TCGA.S3.AA0Z.01,11.97492002,12.61738252,Amplification,Wild Type,Wild Type,Altered
+TCGA.S3.AA10.01,12.49153497,11.86892285,Amplification,Amplification,Altered,Altered
+TCGA.S3.AA11.01,9.327166377,8.468322644,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.S3.AA12.01,9.397721688,10.24862734,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.S3.AA14.01,8.822162899,9.994919089,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.S3.AA15.01,11.01537323,11.11536884,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.S3.AA17.01,10.26295222,10.24972976,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.UL.AAZ6.01,9.92677039,11.30610157,Amplification,Amplification,Altered,Altered
+TCGA.UU.A93S.01,10.74087698,11.45522446,Amplification,Deletion,Altered,Altered
+TCGA.V7.A7HQ.01,7.805376301,9.900184536,Deletion,Wild Type,Wild Type,Altered
+TCGA.W8.A86G.01,6.742855081,8.410854105,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.WT.AB41.01,8.568890958,9.316134426,Deletion,Wild Type,Wild Type,Altered
+TCGA.WT.AB44.01,6.091101055,7.327705326,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.XX.A899.01,9.053925882,9.884315545,Wild Type,Wild Type,Wild Type,Wild Type
+TCGA.XX.A89A.01,9.211584153,9.903191958,Deletion,Wild Type,Wild Type,Altered
+TCGA.Z7.A8R5.01,7.098253209,8.7437573,Deletion,Amplification,Altered,Altered
+TCGA.Z7.A8R6.01,11.05180711,11.33579787,Wild Type,Wild Type,Wild Type,Wild Type
